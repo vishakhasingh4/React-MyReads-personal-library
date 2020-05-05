@@ -14,7 +14,7 @@
 ## SEARCH
 ------
 
-![alt text](https://github.com/vishakhasingh4/React-MyReads-personal-library/blob/master/MyReads_Search.png)
+![alt text](https://github.com/vishakhasingh4/React-MyReads-personal-library/blob/master/MyRead_Search.png)
 
 To get started developing right away:
 
