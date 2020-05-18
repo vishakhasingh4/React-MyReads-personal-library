@@ -22,7 +22,7 @@ class Books extends Component{
                                  style={{ 
                                      width: 128, 
                                      height: 193, 
-                                     backgroundImage: `url("${ this.props.book.imageLinks.thumbnail }")`
+                                     backgroundImage: `url("${ this.props.book.imageLinks && this.props.book.imageLinks.thumbnail }")`
                                       }}/>
                             <div className="book-shelf-changer">
                                 <select onChange={this.onBookShelfChange} defaultValue={this.props.book.shelf}>
